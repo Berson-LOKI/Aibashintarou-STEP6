@@ -4,5 +4,5 @@ services:
     ports:
       - "8000:80"
     volumes:
-      - ./SRC:/var/www/html
+      - ./src:/var/www/html
     
